@@ -8,6 +8,16 @@ Currently, it includes **Assignment-1** with two tasks.
   - task1.py → Basic Mathematical Operations
   - task2.py → Personalized Greeting
 
+## Repository Structure
+- Assignment-2
+  - task1.py → Check Even Or Odd
+  - task2.py → Calculate Sum Using Loop
+
+## Repository Structure
+- Assignment-3
+  - task1.py → Find Factorial 
+  - task2.py → Basic Math Module Calculations
+
 ## How to Run
 1. Open terminal/command prompt.
 2. Navigate to the assignment folder:
